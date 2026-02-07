@@ -4,7 +4,7 @@ title: Zulkernain Tasin
 ---
 
 # Zulkernain Tasin
-**Robotics Engineer | Operations Specialist | DeepTech Strategist** 📍 Vilnius, Lithuania  
+**Robotics Engineer | Operations Specialist | DeepTech Strategist | Creative Entrepreneur** 📍 Vilnius, Lithuania  
 📧 [zulkernaintasin.lt@gmail.com](mailto:zulkernaintasin.lt@gmail.com) | 📞 +370 603 05989  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/zulkernaintasin/)
 
@@ -65,10 +65,10 @@ Multidisciplinary professional with a unique convergence of **Robotics Engineeri
 * **Data Management:** Implemented data archiving and backup systems to ensure integrity of project assets.
 
 ### **Early Career & Contract Roles**
-* **Keedlee (Digital Marketing Lead):** Developed digital marketing strategies, managed social media accounts, shot videos, and executed product photography (2022–2023).
-* **Build with Shah (Content Strategist):** Developed YouTube content strategy and directed video shoots. Edited content and maintained social media presence (2020).
-* **Positive Bangladesh (Co-Founder):** Developed the core idea and business model for a PVE/CVE (Preventing Violent Extremism) social startup. Managed content planning (static/dynamic), video production, and archiving (2018–2020).
-* **Think Twice Act Wise (Head of Documentation):** Executed content planning, photography, video production, and activity archiving (2017–2019).
+* **Keedlee (Digital Marketing Lead):** Developed digital marketing strategies, managed social media accounts, shot videos, and executed product photography (02/2022–03/2023).
+* **Build with Shah (Content Strategist):** Developed YouTube content strategy and directed video shoots. Edited content and maintained social media presence (06/2020 – 11/2020).
+* **Positive Bangladesh (Co-Founder):** Developed the core idea and business model for a PVE/CVE (Preventing Violent Extremism) social startup. Managed content planning (static/dynamic), video production, and archiving (01/2018–11/2020).
+* **Think Twice Act Wise (Head of Documentation):** Executed content planning, photography, video production, and activity archiving (01/2017–11/2019).
 
 ---
 
@@ -93,7 +93,7 @@ Multidisciplinary professional with a unique convergence of **Robotics Engineeri
 ## 5. Technical & Professional Skills
 
 **Engineering & Robotics**
-* **Control Systems:** PID Tuning, Motion Prediction, Glauert’s Theory (Propulsion), Coaxial Propulsion Systems.
+* **Control Systems & Automation:** PLC Programming (Ladder Logic), PID Tuning, Motion Prediction, Glauert’s Theory (Propulsion).
 * **Hardware Integration:** Hardware-Software Integration, Embedded Systems Testing, Functional Validation.
 * **Components:** Brushless DC Motors (BLDC), Servo Motors (MG995, TowerPro), Flight Controllers (APM 2.8), Microcontrollers (Arduino Mega), Sensors (MPU6050, ADXL345).
 
