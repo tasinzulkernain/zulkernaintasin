@@ -37,7 +37,7 @@ I hold an **MBA in Deep-tech Entrepreneurship** from **Vilnius University** (202
 #### 🧠 **DeepTech Entrepreneurship in Contrasting Ecosystems (Master's Thesis)**
 *A comparative analysis of "Institutional Voids" (Bangladesh) vs. "Institutional Glut" (Lithuania).*
 * **Research:** Diagnosed why DeepTech startups fail using the "Most Different Systems Design" (MDSD).
-* **Stakeholders:** Interviewed 8 high-level experts including a former Minister of Education and SOE Board Chairmen.
+* **Stakeholders:** Interviewed 8 high-level experts, including a former Minister of Education and SOE Board Chairmen.
 * **Concept:** Developed "FinAss," an AI FinTech vignette to stress-test regulatory viability against **GDPR** and **banking risk appetite**.
 
 #### 🚁 **Hybrid Locomotion Drone (Bachelor's Thesis)**
@@ -47,7 +47,7 @@ I hold an **MBA in Deep-tech Entrepreneurship** from **Vilnius University** (202
 * **Outcome:** Pivoted from a "Same Limb" design to a "Separate Limb" chassis to resolve torque failures and successfully demonstrated object grabbing.
 
 #### 🛡️ **Log Parser Fix (Nord Security)**
-* **Problem:** Internal log parser tool failed during night shifts, impacting incident resolution times.
+* **Problem:** Internal log parser tool failed after software update, impacting incident resolution times.
 * **Solution:** Personally utilized **PowerShell/C#** to patch the code and documented the new workflow for the team.
 
 ---
@@ -56,8 +56,8 @@ I hold an **MBA in Deep-tech Entrepreneurship** from **Vilnius University** (202
 
 #### **CyberCare (Nord Security / NordVPN)** | *Vilnius, Lithuania*
 * **Customer Success Manager** (02/2025 – 08/2025 & 01/2026 – Present)
-    * **Crisis Management:** Handled 11 concurrent chats (vs. 4 capacity) during infrastructure outages.
-    * **The Iran Initiative:** Achieved a **21% resolution rate** for blocked users in Iran by piloting alternative infrastructure solutions.
+    * **Crisis Management:** Handled 2.5x more chats than capacity during infrastructure outages.
+    * **The Iran Initiative:** Achieved a **21% resolution rate** for blocked users in Iran by piloting alternative solutions.
     * **Root Cause Analysis:** Initiated a tracker to distinguish systemic errors from training gaps, reducing ticket misrouting.
 * **Training Specialist Intern** (09/2025 – 12/2025)
     * **Talent Development:** Evaluated new hires based on "Asset Potential."
