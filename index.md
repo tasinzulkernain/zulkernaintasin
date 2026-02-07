@@ -4,7 +4,7 @@ title: Zulkernain Tasin
 ---
 
 # Zulkernain Tasin
-**Robotics Engineer | Operations Specialist | DeepTech Strategist | Creative Entrepreneur** 📍 Vilnius, Lithuania  
+**Robotics Engineer | Operations Specialist | DeepTech Strategist** 📍 Vilnius, Lithuania  
 📧 [zulkernaintasin.lt@gmail.com](mailto:zulkernaintasin.lt@gmail.com) | 📞 +370 603 05989  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/zulkernaintasin/)
 
@@ -53,7 +53,7 @@ Multidisciplinary professional with a unique convergence of **Robotics Engineeri
 * **Data-Driven Onboarding:** Tracked and analyzed training performance metrics (KPIs) to identify failure points, implementing targeted modules that improved long-term retention.
 
 ### **The Mad Team** | *Dhaka, Bangladesh*
-**Founder / CEO / Technical Director** | *01/2021 – 08/2024*
+**Founder** | *01/2021 – 08/2024*
 * **Operations Leadership:** Founded and scaled a creative agency, managing end-to-end execution of **100+ projects**. Designed Agile workflows to replace ad-hoc processes, improving resource allocation and reducing error rates.
 * **Client Management:** Managed high-stakes relationships with multinational partners including **Banglalink Digital**, **UNDP**, and **KTM**, translating client visions into actionable objectives.
 * **Technical Production Management:**

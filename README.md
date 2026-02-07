@@ -63,7 +63,7 @@ I hold an **MBA in Deep-tech Entrepreneurship** from **Vilnius University** (202
     * **Knowledge Management:** Revamped internal runbooks and documentation for technical workflows.
 
 #### **The Mad Team** | *Dhaka, Bangladesh*
-* **Founder / CEO / Technical Director** (01/2021 – 08/2024)
+* **Founder** (01/2021 – 08/2024)
     * **Leadership:** Scaled a creative agency managing **100+ projects** for clients like **Banglalink Digital**, **UNDP**, and **KTM**.
     * **Technical Direction:**
         * **Fogg Presents "The Night of Pritom Hasan":** Managed 6 Sony FX6s and 4 Sony A7S3s for live production.
@@ -99,7 +99,7 @@ I hold an **MBA in Deep-tech Entrepreneurship** from **Vilnius University** (202
 
 ### 📫 Connect with Me
 
-* **Portfolio:** Website under work ;) 
+* **Website:** https://tasinzulkernain.github.io/
 * **LinkedIn:** https://www.linkedin.com/in/zulkernaintasin/
 * **Email:** zulkernaintasin.lt@gmail.com
 * **Location:** Vilnius, Lithuania
