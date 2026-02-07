@@ -13,7 +13,7 @@ title: Zulkernain Tasin
 ## 1. Bio & Philosophy
 I am a multidisciplinary professional bridging the gap between **Silicon and Soul**. 
 
-By day, I am a **Robotics Engineer** and **Operations Lead** at CyberCare, solving complex technical challenges with code and automation. By night, I am a **Creative Director**, **Musician**, and **Photographer** who has documented the underground hip-hop scene and performed on stage with rock bands. 
+By day, I am a **Robotics Engineer** and **Customer Success Manager** at CyberCare, solving complex technical challenges with code and automation. By night, I am a **Creative Director**, **Musician**, and **Photographer** who has documented the underground hip-hop scene and performed on stage with rock bands. 
 
 My passion lies in **Automation**—optimizing systems whether they are mechanical (drones), digital (IT operations), or logistical. This website showcases my entire journey.
 
@@ -22,9 +22,9 @@ My passion lies in **Automation**—optimizing systems whether they are mechanic
 ## 2. Professional Experience (Engineering & Ops)
 
 ### **CyberCare** | *Vilnius, Lithuania*
-**Senior Customer Success Manager** | *01/2026 – Present*
+**Customer Success Manager** | *01/2026 – Present*
 *(Previously: Customer Success Manager, 02/2025 – 08/2025)*
-* **Crisis Leadership:** Manage **11+ concurrent technical sessions** (2.5x capacity) during major infrastructure outages.
+* **Crisis Resilience:** Handle **11+ concurrent technical sessions** (2.5x capacity) during major infrastructure outages.
 * **The Iran Initiative:** Achieved a **21% resolution rate** for blocked users in Iran by piloting alternative infrastructure solutions.
 * **Engineering Fix (Log Parser):** Spearheaded a swift initiative to fix a broken internal Log Parser tool that was affecting the **entire department**. Personally utilized **PowerShell/C#** skills to patch the code, restoring operational efficiency globally.
 
@@ -47,7 +47,7 @@ My passion lies in **Automation**—optimizing systems whether they are mechanic
 ### **FleetFox** | *Vilnius, Lithuania*
 **Logistics Operations (Vehicle Relocator)** | *10/2024 – 01/2025*
 * **Operational Optimization:** Managed the strategic movement of Bolt Drive vehicles to ensure optimal availability across Vilnius based on demand heatmaps.
-* **Team Coordination:** Led relocation teams, assigning routes and managing shift coordination.
+* **Team Coordination:** coordinated relocation routes and managed shift timing.
 
 ### **Keedlee Limited** | *Dhaka*
 **Digital Marketing Lead** | *02/2022 – 03/2023*

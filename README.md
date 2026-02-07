@@ -1,6 +1,6 @@
 # Hi there, I'm Zulkernain Tasin 👋
 
-### 🚀 Robotics Engineer | Automation Specialist | Operations Lead
+### 🚀 Robotics Engineer | Automation Specialist | Operations Specialist
 
 I am a multidisciplinary engineer and entrepreneur bridging the gap between **hardware innovation**, **regulatory compliance**, and **operational excellence**. 
 
@@ -36,7 +36,6 @@ I hold an **MBA in Deep-tech Entrepreneurship** from **Vilnius University** (202
 #### 🧠 **DeepTech Entrepreneurship in Contrasting Ecosystems (Master's Thesis)**
 *A comparative analysis of "Institutional Voids" (Bangladesh) vs. "Institutional Glut" (Lithuania).*
 * **Research:** Diagnosed why DeepTech startups fail using the "Most Different Systems Design" (MDSD).
-* **Stakeholders:** Interviewed 8 high-level experts, including a former Minister of Education and SOE Board Chairmen.
 * **Concept:** Developed "FinAss," an AI FinTech vignette to stress-test regulatory viability against **GDPR** and **banking risk appetite**.
 
 #### 🚁 **Hybrid Locomotion Drone (Bachelor's Thesis)**
@@ -54,8 +53,8 @@ I hold an **MBA in Deep-tech Entrepreneurship** from **Vilnius University** (202
 ### 💼 Professional Experience
 
 #### **CyberCare** | *Vilnius, Lithuania*
-* **Senior Customer Success Manager** (01/2026 – Present)
-    * **Crisis Management:** Lead technical escalation workflows for **11+ concurrent sessions** (2.5x capacity) during major infrastructure outages.
+* **Customer Success Manager** (01/2026 – Present)
+    * **Crisis Resilience:** Handled **11+ concurrent technical sessions** (2.5x capacity) during major infrastructure outages.
     * **The Iran Initiative:** Achieved a **21% resolution rate** for blocked users in Iran by piloting alternative infrastructure solutions.
     * **Automation:** Developed macros and scripts to standardize technical fixes for the wider team.
 * **Training Specialist Intern** (09/2025 – 12/2025)
